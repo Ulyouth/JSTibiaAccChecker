@@ -1,6 +1,6 @@
 # JSTibiaAccChecker
 
-* Script to check a list of tibia accounts for validity
+* Script to check a list of Tibia accounts for validity
 * Bypasses Cloudflare's "Under Attack" mode
 * Inputs/Outputs lists' contents to the local browser's storage, which can be queried/modified using Javascript
 * Cannot be weaponized (easily) since your IP will get blocked in no time if you have no method of changing it dynamically
@@ -9,7 +9,7 @@
 
 # Usage
 
-First of all, you'll probably need a browser extension to run the code, since simply copying and pasting it onto the address bar will only run the code once, but it should run continuosly instead. I used the **Custom JavaScript for Websites 2** myself, which you can download from the link below:
+First of all, you'll probably need a browser extension to run the code, since simply copying and pasting it onto the address bar will only run the code once, but it must run continuosly instead. I used the **Custom JavaScript for Websites 2** myself, which you can download from the link below:
 
 https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk
 
